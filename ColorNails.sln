@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29920.165
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ColorNails", "ColorNails.csproj", "{DE833A80-59C8-4A3E-AF70-C903A4E6B103}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE833A80-59C8-4A3E-AF70-C903A4E6B103}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE833A80-59C8-4A3E-AF70-C903A4E6B103}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE833A80-59C8-4A3E-AF70-C903A4E6B103}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE833A80-59C8-4A3E-AF70-C903A4E6B103}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1F807887-0FFA-47CF-BAA4-F63F3E6838BE}
+	EndGlobalSection
+EndGlobal
